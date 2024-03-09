@@ -1,3 +1,4 @@
+//Все одним файлом, как и просили в задании
 import { useState } from "react";
 
 type Color = string;
